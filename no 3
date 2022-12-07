@@ -1,0 +1,9 @@
+program NomorTiga;
+const V = 110;
+      I = 2.8;
+var R:real ;
+begin
+  writeln ('===Nomor Tiga===');
+  R:= 110/2.8;
+  writeln('R = ' , R , 'Ω');
+end.
